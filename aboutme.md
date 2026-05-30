@@ -1,16 +1,15 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Over mij
+subtitle: Leuk dat je langskomt! Kijk gezellig rond op mijn website.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Welkom op mijn pagina! Ik ben Nici en ik ben 7 jaar oud. 
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+**Hier zijn een paar leuke weetjes over mij:**
+* 🐱 **Mijn twee katten:** Elon & Nova
+* 📱 **Mijn lievelingsgame:** Brawl Stars
+* 📺 **Wat ik graag kijk:** Ben 10
+* 🃏 **Mijn hobby:** Pokémon-kaarten ruilen met vrienden
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Op deze blog ga ik schrijven over de coole dingen die ik bouw, games die ik speel en mijn avonturen. Leuk dat je meeleest!
