@@ -12,4 +12,4 @@ Welkom op mijn pagina! Ik ben Nici en ik ben 7 jaar oud.
 * 📺 **Wat ik graag kijk:** Ben 10
 * 🃏 **Mijn hobby:** Pokémon-kaarten ruilen met vrienden
 
-Op deze blog ga ik schrijven over de coole dingen die ik bouw, games die ik speel en mijn avonturen. Leuk dat je meeleest!
+Op deze blog ga ik schrijven over mijn avonturen. Leuk dat je meeleest!
