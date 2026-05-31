@@ -2,9 +2,9 @@
 layout: post
 title: "Mijn favoriete game: Brawl Stars!"
 subtitle: "Waarom Darryl de allerbeste knuffelbare robotpiraat is"
-cover-img: /assets/img/brawlstars-header.jpg
-thumbnail-img: /assets/img/brawlstars-thumb.jpg
-share-img: /assets/img/brawlstars-header.jpg
+cover-img: /assets/img/brawl-stars-header.jpg
+thumbnail-img: /assets/img/brawl-stars-thumb.jpg
+share-img: /assets/img/brawl-stars-header.jpg
 tags: [brawl stars, gaming, hobby]
 ---
 
